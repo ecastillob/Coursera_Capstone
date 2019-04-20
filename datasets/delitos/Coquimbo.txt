@@ -1,0 +1,15 @@
+Delitos Comuna de Coquimbo	2012	2013	2014	2015	2016
+Total DMCS	34179	31711	33716	30895	31820
+Robo con violencia o intimidación	2490	2360	2868	2983	3041
+Robo por sorpresa	1471	1468	1499	1526	1493
+Robo de vehículo motorizado	1234	852	962	1363	1169
+Robo de objeto de o desde vehículo	3046	3194	4481	3536	4126
+Robo en lugar habitado	6283	6156	6522	5761	5997
+Robo en lugar no habitado	2827	2440	2649	2769	2843
+Otros robos con fuerza	209	201	144	150	248
+Hurtos	9771	8712	9022	7934	7675
+Lesiones menos graves graves o gravísimas	1352	1115	979	1012	993
+Lesiones leves	5345	5076	4463	3733	4063
+Homicidios	09	13	13	30	29
+Violaciones	141	125	114	99	143
+VIF	8569	7565	8091	7192	7444

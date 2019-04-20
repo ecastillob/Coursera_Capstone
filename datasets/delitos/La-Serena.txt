@@ -1,0 +1,15 @@
+Delitos Comuna de La Serena	2012	2013	2014	2015	2016
+Total DMCS	35466	36866	36216	34242	34232
+Robo con violencia o intimidación	2181	2187	2864	2650	2212
+Robo por sorpresa	1006	1109	1500	1797	1605
+Robo de vehículo motorizado	1157	1261	1534	2198	1848
+Robo de objeto de o desde vehículo	2769	3296	3038	3154	3650
+Robo en lugar habitado	5597	5916	5990	5950	5243
+Robo en lugar no habitado	2213	2691	2751	2642	3591
+Otros robos con fuerza	214	365	471	431	493
+Hurtos	14504	14990	13483	11272	11372
+Lesiones menos graves graves o gravísimas	1129	815	881	755	690
+Lesiones leves	4486	4125	3583	3265	3345
+Homicidios	18	13	09	21	04
+Violaciones	191	98	113	107	180
+VIF	5665	5876	5806	4823	5682

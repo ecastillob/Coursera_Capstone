@@ -1,0 +1,213 @@
+Región	Número de Región	Comuna	Establecimiento	Teléfono	Pertenecencia	Dirección
+De Coquimbo	IV	Andacollo	Hospital Dr. José Arraño (Andacollo)	512331096	Perteneciente	Calle Urmeneta 2
+De Coquimbo	IV	Canela	Centro de Salud Familiar Canela	532540007	Perteneciente	Calle Joel Muñoz 495
+De Coquimbo	IV	Canela	Posta de Salud Rural Mincha Norte		Perteneciente	
+De Coquimbo	IV	Canela	Posta de Salud Rural Agua Fría		Perteneciente	
+De Coquimbo	IV	Canela	Posta de Salud Rural Canela Alta		Perteneciente	
+De Coquimbo	IV	Canela	Posta de Salud Rural Los Rulos		Perteneciente	
+De Coquimbo	IV	Canela	Posta de Salud Rural Huentelauquén		Perteneciente	
+De Coquimbo	IV	Canela	Posta de Salud Rural Espíritu Santo		Perteneciente	
+De Coquimbo	IV	Canela	Posta de Salud Rural Mincha Sur		Perteneciente	
+De Coquimbo	IV	Canela	Posta de Salud Rural Jabonería		Perteneciente	
+De Coquimbo	IV	Canela	Posta de Salud Rural Quebrada Linares		Perteneciente	
+De Coquimbo	IV	Canela	SAPU Canela	532540345	Perteneciente	Calle Joel Muñoz 495
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural El Durazno(Combarbalá)		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural Barrancas		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural Cogotí 18		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural El Huacho		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural El Sauce (Combarbalá)		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural Quilitapia		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural La Ligua		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural Ramadilla		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural Valle Hermoso		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural Manquehua		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural San Lorenzo (Combarbalá)		Perteneciente	
+De Coquimbo	IV	Combarbalá	Posta de Salud Rural San Marcos (Combarbalá)		Perteneciente	
+De Coquimbo	IV	Combarbalá	Hospital San Juan de Dios (Combarbalá)	532663464	Perteneciente	Calle Comercio 650
+De Coquimbo	IV	Coquimbo	Hospital San Pablo (Coquimbo)	512336715	Perteneciente	
+De Coquimbo	IV	Coquimbo	Centro de Salud Estudiantil - Universidad Católica del Norte	512205982	No Perteneciente	Calle Larrondo 1281
+De Coquimbo	IV	Coquimbo	Centro Comunitario de Salud Familiar Punta Mira	513333110	Perteneciente	Calle Dr. Ramón Gorroño León 2840
+De Coquimbo	IV	Coquimbo	Policlínico de la Asociación Chilena de Seguridad Coquimbo		No Perteneciente	Calle Profesor Zepeda 2
+De Coquimbo	IV	Coquimbo	SAPU Tierras Blancas II	512336032	Perteneciente	
+De Coquimbo	IV	Coquimbo	Sociedad Propedia Ltda.	512319549	No Perteneciente	Calle Portales 311
+De Coquimbo	IV	Coquimbo	Sociedad Emergencia Móvil Integral S.A.	512418200	No Perteneciente	
+De Coquimbo	IV	Coquimbo	Cruz Roja de Coquimbo	512311166	No Perteneciente	Calle Melgarejo 1035
+De Coquimbo	IV	Coquimbo	Centro de especialidades Médicas (CEMCO)	512322132	No Perteneciente	Calle Colo Colo 580
+De Coquimbo	IV	Coquimbo	Laboratorio Clínico Hermanos Muñoz Flores	512321920	No Perteneciente	Calle Henriquez 405
+De Coquimbo	IV	Coquimbo	Laboratorio Clínico Xima Ltda.	512244758	No Perteneciente	
+De Coquimbo	IV	Coquimbo	Laboratorio clínico Hemolab Ltda.	512311939	No Perteneciente	Calle Alessandri 288
+De Coquimbo	IV	Coquimbo	Laboratorio Clínico los Olivos	512321214	No Perteneciente	
+De Coquimbo	IV	Coquimbo	Centro de Salud Familiar Dr. Sergio Aguilar Delgado	512325404	Perteneciente	Avenida Alessandri 1035
+De Coquimbo	IV	Coquimbo	Laboratorio Clínico Arauco	512673229	No Perteneciente	Calle Dr. Marín 60
+De Coquimbo	IV	Coquimbo	Clínica Regional Coquimbo	512670000	No Perteneciente	
+De Coquimbo	IV	Coquimbo	Centro de Salud Familiar San Juan	512331110	Perteneciente	
+De Coquimbo	IV	Coquimbo	Centro de Salud Familiar Santa Cecilia	512321108	Perteneciente	Calle Las Heras 1100
+De Coquimbo	IV	Coquimbo	Centro de Salud Familiar Tierras Blancas	512241752	Perteneciente	Calle Linares 915
+De Coquimbo	IV	Coquimbo	Centro de Salud Familiar Tongoy		Perteneciente	Calle Fundición Norte 127
+De Coquimbo	IV	Coquimbo	Posta de Salud Rural El Tangue		Perteneciente	
+De Coquimbo	IV	Coquimbo	Posta de Salud Rural Guanaqueros	512395766	Perteneciente	Avenida Guanaqueros 4850
+De Coquimbo	IV	Coquimbo	Posta de Salud Rural Pan de Azúcar	512241260	Perteneciente	
+De Coquimbo	IV	Coquimbo	Posta de Salud Rural Tambillo		Perteneciente	Calle Covadonga 22
+De Coquimbo	IV	Coquimbo	Centro de Salud Familiar El Sauce		Perteneciente	Calle Los Olivos, Sector El Sauce 851
+De Coquimbo	IV	Coquimbo	Centro de Salud IST Coquimbo	512316528	No Perteneciente	Avenida Alessandri 519
+De Coquimbo	IV	Coquimbo	Centro de Salud Familiar Rural Pan de Azúcar		Perteneciente	
+De Coquimbo	IV	Coquimbo	SAPU San Juan	512262591	Perteneciente	
+De Coquimbo	IV	Coquimbo	SAPU Santa Cecilia	512321108	Perteneciente	Calle Las Heras 1100
+De Coquimbo	IV	Coquimbo	SAR Tierras Blancas	512241752	Perteneciente	Calle Linares 915
+De Coquimbo	IV	Coquimbo	SAPU Dr. Sergio Aguilar	512325404	Perteneciente	Avenida Alessandri esquina Lenox 1035
+De Coquimbo	IV	Coquimbo	COSAM Tierras Blancas (CESAM)	512246340	Perteneciente	Calle Linares 895
+De Coquimbo	IV	Coquimbo	Centro Comunitario de Salud Familiar El Alba	512336031	Perteneciente	Calle Luis Millares 2104
+De Coquimbo	IV	Illapel	Posta de Salud Rural Pintacura Sur		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Socavón		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Plan de Hornos		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Tunga Sur		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Cañas Uno		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Cárcamo		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Huintil		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Limáhuida		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Matancilla		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Peralillo Illapel		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Santa Virginia		Perteneciente	
+De Coquimbo	IV	Illapel	Posta de Salud Rural Tunga Norte		Perteneciente	
+De Coquimbo	IV	Illapel	Centro de Salud Familiar Villa San Rafael de Rozas	532528166	Perteneciente	Calle Mario Ahumada 50
+De Coquimbo	IV	Illapel	Laboratorio Clínico Bionet S.A	532523516	No Perteneciente	Calle Independencia 386
+De Coquimbo	IV	Illapel	Centro de Salud Familiar Urbano de Illapel		Perteneciente	Calle El Mirador 211
+De Coquimbo	IV	Illapel	Policlínico del Trabajador AChS Illapel	532522411	No Perteneciente	Calle Independencia 562
+De Coquimbo	IV	Illapel	Hospital Dr. Humberto Elorza Cortés (Illapel)	532663867	Perteneciente	Calle Independencia 512
+De Coquimbo	IV	La Higuera	Centro de Salud Familiar La Higuera	512331331	Perteneciente	
+De Coquimbo	IV	La Higuera	Posta de Salud Rural Los Choros		Perteneciente	
+De Coquimbo	IV	La Higuera	Posta de Salud Rural El Trapiche		Perteneciente	
+De Coquimbo	IV	La Higuera	Posta de Salud Rural Caleta Hornos		Perteneciente	
+De Coquimbo	IV	La Serena	Posta de Salud Rural Lambert		Perteneciente	
+De Coquimbo	IV	La Serena	SAPU Las Compañías	512253882	Perteneciente	
+De Coquimbo	IV	La Serena	SAPU Pedro Aguirre Cerda	512270680	Perteneciente	Calle Emilio Bello 918
+De Coquimbo	IV	La Serena	Centro Comunitario de Salud Familiar Villa el Indio	512336020	Perteneciente	
+De Coquimbo	IV	La Serena	Centro Comunitario de Salud Familiar Villa Alemania	512281570	Perteneciente	Calle Antonio 2834
+De Coquimbo	IV	La Serena	Centro Comunitario de Salud Familiar Lambert	512251532	Perteneciente	Pasaje Ernestina Aguirre 4270
+De Coquimbo	IV	La Serena	SAPU Cardenal Caro	512571836	Perteneciente	
+De Coquimbo	IV	La Serena	SAPU Emilio Schaffhauser	512221203	Perteneciente	
+De Coquimbo	IV	La Serena	Laboratorio Clínico Megasalud S.A.		No Perteneciente	Calle Huanhualí 186
+De Coquimbo	IV	La Serena	Centro de Salud Familiar Juan Pablo II		Perteneciente	Calle Isidora Campaña 3397
+De Coquimbo	IV	La Serena	Unidad de Salud del Establecimiento Penitenciario de La Serena	512421156	No Perteneciente	
+De Coquimbo	IV	La Serena	Policlínico de Funcionarios de Gendarmería de Chile La Serena	979866405	No Perteneciente	Calle Las Rojas Poniente 1521
+De Coquimbo	IV	La Serena	Centro de Salud Familiar Dr. Emilio Schaffhauser	512221087	Perteneciente	
+De Coquimbo	IV	La Serena	Centro de Salud Familiar Cardenal Raúl Silva Henríquez de La Serena	512257782	Perteneciente	
+De Coquimbo	IV	La Serena	Centro de Salud Familiar Cardenal Caro	512296963	Perteneciente	
+De Coquimbo	IV	La Serena	Centro de Salud Familiar Las Compañías	512253882	Perteneciente	
+De Coquimbo	IV	La Serena	Centro de Salud Familiar Pedro Aguirre Cerda	512253882	Perteneciente	Calle Emilio Bello 918
+De Coquimbo	IV	La Serena	Posta de Salud Rural Algarrobito		Perteneciente	
+De Coquimbo	IV	La Serena	Posta de Salud Rural Las Rojas		Perteneciente	
+De Coquimbo	IV	La Serena	Posta de Salud Rural El Romero		Perteneciente	
+De Coquimbo	IV	La Serena	Hospital San Juan de Dios (La Serena)	512333378	Perteneciente	Calle Balmaceda 916
+De Coquimbo	IV	La Serena	Centro de Salud Mutual CChC La Serena	512221991	No Perteneciente	Calle Huanhualí 186
+De Coquimbo	IV	La Serena	Policlínico del Trabajador AChS La Serena	512335500	No Perteneciente	Calle Balmaceda 947
+De Coquimbo	IV	La Serena	Clínica Regional Elqui	512332300	No Perteneciente	Avenida El Santo 1475
+De Coquimbo	IV	La Serena	Centro Médico Integramédica La Serena	512207700	No Perteneciente	Calle Alberto Solari 1400
+De Coquimbo	IV	La Serena	Centro Médico y Dental Megasalud La Serena	512337400	No Perteneciente	Calle Huanhualí 186
+De Coquimbo	IV	La Serena	Laboratorio Clínico Dra. Gloria Canovas	512225263	No Perteneciente	Calle Eduardo de la Barra 260
+De Coquimbo	IV	La Serena	Policlínico Cruz Roja de La Serena	512224720	No Perteneciente	Calle Cienfuegos 470
+De Coquimbo	IV	La Serena	Vacunatorio Ad Hominem	992540004	No Perteneciente	Calle Balmaceda 1015
+De Coquimbo	IV	La Serena	SAPU Raúl Silva Henríquez de La Serena	512255190	Perteneciente	
+De Coquimbo	IV	La Serena	Policlínico Universidad Pedro de Valdivia	990406974	No Perteneciente	Avenida Cuatro Esquinas 70
+De Coquimbo	IV	La Serena	Actividades Gestionadas por la Dirección del Servicio para apoyo de la Red (S.S de Coquimbo)		Perteneciente	Avenida Francisco de Aguirre 795
+De Coquimbo	IV	La Serena	PRAIS (S.S Coquimbo)		Perteneciente	Avenida Francisco de Aguirre 795
+De Coquimbo	IV	La Serena	Centro de Diálisis Clinidial Las Compañías		No Perteneciente	Calle Santo Domingo 1791
+De Coquimbo	IV	La Serena	SAPU Juan Pablo II	512672985	Perteneciente	Calle Isidora Campaña 3397
+De Coquimbo	IV	La Serena	Centro Médico y Dental La Serena IVa. Zona de Carabineros Coquimbo	512222955	No Perteneciente	Calle Cienfuegos 209
+De Coquimbo	IV	La Serena	Centro Comunitario de Salud Familiar Arcos de Pinamar		Perteneciente	Calle Salvador Reyes esquina Brillador 2061
+De Coquimbo	IV	La Serena	Laboratorio Clínico Bionet S.A	512335500	No Perteneciente	Avenida Estadio 1459
+De Coquimbo	IV	La Serena	Sociedad de Profesionales de Huanhuali Ltda.	512487944	No Perteneciente	Calle Huanhualí 440
+De Coquimbo	IV	La Serena	Laboratorio Clínico IMATEC Ltda.	512224509	No Perteneciente	Calle Anfion Muñoz 673
+De Coquimbo	IV	La Serena	Laboratorio Clínico Analyser Ltda.	512544700	No Perteneciente	Calle República 762
+De Coquimbo	IV	La Serena	Laboratorio Clínico Integramédica	512207747	No Perteneciente	Avenida Alberto Solari 1400
+De Coquimbo	IV	La Serena	Laboratorio Clínico Santa María de La Serena Ltda.	512550151	No Perteneciente	Calle Balmaceda 1015
+De Coquimbo	IV	La Serena	Sociedad de Profesionales de Hemodiálisis Ltda.	512213272	No Perteneciente	Calle Juan Soldado 425
+De Coquimbo	IV	La Serena	Vacunatorio La Serena		No Perteneciente	Calle Balmaceda 1015
+De Coquimbo	IV	La Serena	Compañía Minera del Pacífico S.A.	512203085	No Perteneciente	Calle Pedro Pablo Muñoz 675
+De Coquimbo	IV	Los Vilos	Hospital San Pedro (Los Vilos)	532663626	Perteneciente	Calle Arauco 400
+De Coquimbo	IV	Los Vilos	Posta de Salud Rural Los Cóndores		Perteneciente	
+De Coquimbo	IV	Los Vilos	Posta de Salud Rural Caimanes		Perteneciente	
+De Coquimbo	IV	Los Vilos	Posta de Salud Rural Guangualí		Perteneciente	
+De Coquimbo	IV	Los Vilos	Posta de Salud Rural Quilimarí		Perteneciente	
+De Coquimbo	IV	Los Vilos	Posta de Salud Rural Tilama		Perteneciente	
+De Coquimbo	IV	Monte Patria	Posta de Salud Rural Ramadas de Tulahuén		Perteneciente	
+De Coquimbo	IV	Monte Patria	Posta de Salud Rural Tulahuén		Perteneciente	
+De Coquimbo	IV	Monte Patria	Posta de Salud Rural El Maitén		Perteneciente	
+De Coquimbo	IV	Monte Patria	Posta de Salud Rural Chilecito		Perteneciente	
+De Coquimbo	IV	Monte Patria	Posta de Salud Rural Hacienda Valdivia		Perteneciente	
+De Coquimbo	IV	Monte Patria	Posta de Salud Rural Huatulame	532711601	Perteneciente	
+De Coquimbo	IV	Monte Patria	Posta de Salud Rural Mialqui		Perteneciente	
+De Coquimbo	IV	Monte Patria	Posta de Salud Rural Pedregal		Perteneciente	
+De Coquimbo	IV	Monte Patria	Posta de Salud Rural Rapel (Monte Patria)		Perteneciente	
+De Coquimbo	IV	Monte Patria	Centro de Salud Familiar Chañaral Alto	532711332	Perteneciente	
+De Coquimbo	IV	Monte Patria	Centro de Salud Familiar Carén	532726007	Perteneciente	
+De Coquimbo	IV	Monte Patria	Centro de Salud Familiar Monte Patria	532711027	Perteneciente	Calle Poniu 80
+De Coquimbo	IV	Monte Patria	Centro de Salud Familiar El Palqui	532711072	Perteneciente	
+De Coquimbo	IV	Monte Patria	Clínica Dental Móvil Triple. Pat. PW4100 (Monte Patria)	532711058	Perteneciente	Calle Balmaceda 110
+De Coquimbo	IV	Ovalle	SAPU Marcos Macuada	532632535	Perteneciente	Calle Covarrubias 260
+De Coquimbo	IV	Ovalle	Centro Comunitario de Salud Familiar Colonia Limarí		Perteneciente	Calle Francisco Barraza, Sector Pueblo Limarí 65
+De Coquimbo	IV	Ovalle	Clínica del Trabajador de la AChS Ovalle	532624619	No Perteneciente	Calle Miguel Aguirre Perry 132
+De Coquimbo	IV	Ovalle	Hospital Dr. Antonio Tirado Lanas (Ovalle)	532663194	Perteneciente	Calle Ariztía Poniente 7
+De Coquimbo	IV	Ovalle	Centro de Salud Mutual CChC Ovalle	532620024	No Perteneciente	Calle Los Peñones 386
+De Coquimbo	IV	Ovalle	Laboratorio Clínico Limarí	532423104	No Perteneciente	Calle Socos 76
+De Coquimbo	IV	Ovalle	Laboratorio Clínico San Andrés	532620369	No Perteneciente	Calle Manuel Peñafiel 293
+De Coquimbo	IV	Ovalle	Laboratorio Clínico Ariztía Ltda.	532629811	No Perteneciente	Calle Socos 211
+De Coquimbo	IV	Ovalle	Centro de Salud Familiar Marcos Macuada	532632535	Perteneciente	Calle Covarrubias 260
+De Coquimbo	IV	Ovalle	Centro de Salud Familiar Cerrillos de Tamaya	532631005	Perteneciente	
+De Coquimbo	IV	Ovalle	Centro de Salud Familiar Jorge Jordán Domic	532624562	Perteneciente	Calle Magallanes Moure 794
+De Coquimbo	IV	Ovalle	Laboratorio Clínico Bionet S.A	532620386	No Perteneciente	Calle Libertad 456
+De Coquimbo	IV	Ovalle	Laboratorio Clínico Medilab Ltda.	532625876	No Perteneciente	Calle Miguel Aguirre 280
+De Coquimbo	IV	Ovalle	Posta de Salud Rural Chalinga		Perteneciente	
+De Coquimbo	IV	Ovalle	Posta de Salud Rural Cerro Blanco		Perteneciente	
+De Coquimbo	IV	Ovalle	Posta de Salud Rural Barraza		Perteneciente	
+De Coquimbo	IV	Ovalle	Posta de Salud Rural Camarico (Ovalle)		Perteneciente	
+De Coquimbo	IV	Ovalle	Posta de Salud Rural Alcones Bajo		Perteneciente	
+De Coquimbo	IV	Ovalle	Posta de Salud Rural Las Sossas		Perteneciente	
+De Coquimbo	IV	Ovalle	Posta de Salud Rural Limarí	532632793	Perteneciente	
+De Coquimbo	IV	Ovalle	Posta de Salud Rural Hornillos		Perteneciente	
+De Coquimbo	IV	Ovalle	Centro de Salud Familiar Sotaquí	532632792	Perteneciente	
+De Coquimbo	IV	Ovalle	Posta de Salud Rural Recoleta		Perteneciente	
+De Coquimbo	IV	Ovalle	Posta de Salud Rural Huamalata	532633003	Perteneciente	
+De Coquimbo	IV	Ovalle	Centro Comunitario de Salud Familiar Los Copihues	512532830	Perteneciente	
+De Coquimbo	IV	Ovalle	SAPU Jorge Jordán Domic	532624562	Perteneciente	Calle Magallanes Moure 794
+De Coquimbo	IV	Ovalle	Centro Comunitario de Salud Familiar San José de la Dehesa	532663950	Perteneciente	
+De Coquimbo	IV	Ovalle	Centro Comunitario de Salud Familiar Limarí		Perteneciente	Calle Diaguitas 1328
+De Coquimbo	IV	Paiguano	Posta de Salud Rural Horcón (Paiguano)		Perteneciente	
+De Coquimbo	IV	Paiguano	Posta de Salud Rural Monte Grande		Perteneciente	
+De Coquimbo	IV	Paiguano	Posta de Salud Rural Pisco Elqui		Perteneciente	
+De Coquimbo	IV	Paiguano	Centro de Salud Familiar Paihuano	512451006	Perteneciente	
+De Coquimbo	IV	Punitaqui	Centro de Salud Familiar Punitaqui	532731027	Perteneciente	
+De Coquimbo	IV	Punitaqui	Posta de Salud Rural San Pedro de Quiles		Perteneciente	
+De Coquimbo	IV	Punitaqui	Posta de Salud Rural Divisadero		Perteneciente	
+De Coquimbo	IV	Punitaqui	Posta de Salud Rural El Parral de Quiles		Perteneciente	
+De Coquimbo	IV	Río Hurtado	Posta de Salud Rural Tabaqueros		Perteneciente	
+De Coquimbo	IV	Río Hurtado	Centro de Salud Familiar Pichasca	532691634	Perteneciente	
+De Coquimbo	IV	Río Hurtado	Posta de Salud Rural El Chañar		Perteneciente	
+De Coquimbo	IV	Río Hurtado	Posta de Salud Rural Hurtado	532691816	Perteneciente	
+De Coquimbo	IV	Río Hurtado	Posta de Salud Rural Las Breas (Río Hurtado)		Perteneciente	
+De Coquimbo	IV	Río Hurtado	Posta de Salud Rural Samo Alto	532691634	Perteneciente	
+De Coquimbo	IV	Río Hurtado	Posta de Salud Rural Serón		Perteneciente	
+De Coquimbo	IV	Salamanca	Laboratorio Clínico Astelab	532551474	No Perteneciente	Calle Irarrazabal 582
+De Coquimbo	IV	Salamanca	Posta de Salud Rural Cuncumén(Salamanca)		Perteneciente	
+De Coquimbo	IV	Salamanca	Posta de Salud Rural Tranquilla		Perteneciente	
+De Coquimbo	IV	Salamanca	Posta de Salud Rural Cunlagua		Perteneciente	
+De Coquimbo	IV	Salamanca	Posta de Salud Rural Chillepín		Perteneciente	
+De Coquimbo	IV	Salamanca	Posta de Salud Rural Llimpo		Perteneciente	
+De Coquimbo	IV	Salamanca	Posta de Salud Rural San Agustín (Salamanca)		Perteneciente	
+De Coquimbo	IV	Salamanca	Posta de Salud Rural Tahuinco		Perteneciente	
+De Coquimbo	IV	Salamanca	Posta de Salud Rural Arboleda Grande		Perteneciente	
+De Coquimbo	IV	Salamanca	Posta de Salud Rural Quelén Bajo		Perteneciente	
+De Coquimbo	IV	Salamanca	Posta de Salud Rural Camisa		Perteneciente	
+De Coquimbo	IV	Salamanca	Hospital de Salamanca	532662960	Perteneciente	Calle Matilde Salamanca 113
+De Coquimbo	IV	Vicuña	Hospital San Juan de Dios (Vicuña)	512333141	Perteneciente	
+De Coquimbo	IV	Vicuña	Laboratorio Clínico Zuleta y Pinto	512411470	No Perteneciente	Calle Sargento Aldea 201
+De Coquimbo	IV	Vicuña	Posta de Salud Rural Calingasta		Perteneciente	Calle Miraflores 133
+De Coquimbo	IV	Vicuña	Posta de Salud Rural Gualliguaica		Perteneciente	
+De Coquimbo	IV	Vicuña	Posta de Salud Rural Diaguitas		Perteneciente	
+De Coquimbo	IV	Vicuña	Posta de Salud Rural El Molle		Perteneciente	
+De Coquimbo	IV	Vicuña	Posta de Salud Rural El Tambo (Vicuña)		Perteneciente	
+De Coquimbo	IV	Vicuña	Posta de Salud Rural Huanta		Perteneciente	Avenida Elqui 25
+De Coquimbo	IV	Vicuña	Posta de Salud Rural Peralillo Vicuña		Perteneciente	
+De Coquimbo	IV	Vicuña	Posta de Salud Rural Rivadavia		Perteneciente	Calle O'Higgins 46
+De Coquimbo	IV	Vicuña	Posta de Salud Rural Talcuna		Perteneciente	
+De Coquimbo	IV	Vicuña	Posta de Salud Rural Chapilca		Perteneciente	

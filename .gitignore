@@ -1,4 +1,6 @@
 !.gitignore
 /*
 !recursos/
+!datasets/
 !*.ipynb
+!*.pdf
